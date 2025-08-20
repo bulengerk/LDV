@@ -4,7 +4,7 @@
 Ligo Data Visualizer
 
 
-## Where to find gravitonal events?
+## Where to find gravitational events?
 
 [List of observed events](https://gwosc.org/eventapi/html/allevents/)
 
